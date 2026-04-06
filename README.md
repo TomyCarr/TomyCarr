@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tomy 👋
 
-<!--
-**TomyCarr/TomyCarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Full Stack Developer in progress  
 
-Here are some ideas to get you started:
+Currently learning:
+- HTML
+- CSS
+- JavaScript
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals
+- Become a professional full stack developer
+- Build real world projects
+- Contribute to open source
+
+📫 Contact
+- GitHub: https://github.com/TomyCarr
+- eMail: tomicarrillo04@gmail.com
+  
