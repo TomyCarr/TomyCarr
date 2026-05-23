@@ -2,14 +2,17 @@
 
 💻 Junior Full Stack Developer in progress  
 
-Currently learning:
+Currently using:
 - HTML
 - CSS
 - JavaScript
 - Git
+- Python
+- SQL
+- Java
 
 🚀 Goals
-- Become a professional full stack developer
+- Become a professional developer
 - Build real world projects
 - Contribute to open source
 
